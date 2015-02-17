@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewPagerIndicator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_word_fragment_uno">Hola Fragmento Uno</string>
+    <string name="hello_word_fragment_dos">Hola Fragmento Dos</string>
+    <string name="hello_word_fragment_tres">Hola Fragmento Tres</string>
+
+</resources>
